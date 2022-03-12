@@ -1,0 +1,52 @@
+ 
+div.common{
+    width: 330px;
+    height: 123px;
+    text-align: center;
+    line-height: 70px;
+    display: inline-block;
+    font-size: 2rem;
+    
+}
+div.AliceBlue{
+    
+    background-color: aliceblue;
+    
+    
+}
+.AliceBlue:hover{
+    background-color: antiquewhite;
+}
+div.AntiqueWhite{
+    background-color: antiquewhite;
+}
+.AntiqueWhite:hover{
+    background-color: Aqua;
+}
+div.Aqua{
+    background-color: aqua;
+}
+.Aqua:hover{
+    background-color: aquamarine;
+}
+div.Aquamarine{
+    background-color: aquamarine;
+}
+.Aquamarine:hover{
+    background-color: Azure;
+}
+div.Azure{
+    background-color: azure;
+}
+.Azure:hover{
+    background-color: beige;
+}
+div.Beige{
+    background-color: beige;
+}
+.Beige:hover{
+    background-color: blue;
+}
+.common:hover{
+    color:Red;
+}
